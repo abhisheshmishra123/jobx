@@ -1,1 +1,1 @@
-# jobx
+# job-searching-website
